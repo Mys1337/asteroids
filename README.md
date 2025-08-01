@@ -1,2 +1,2 @@
 # asteroids
-Simple asteroids game using pygame
+This is a simple asteroids game using pygame :)
