@@ -23,14 +23,17 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 # On Windows (PowerShell)
 powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
+
+Installing the dependencies
+```bash
+uv sync
+```
+
 ## ⚡ Run
 ```bash
 uv run main.py
 ```
 
-```bash
-uv sync
-```
 
 ## 🎮 Control
 ```
