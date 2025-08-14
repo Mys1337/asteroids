@@ -27,6 +27,11 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```bash
 uv run main.py
 ```
+
+```bash
+uv sync
+```
+
 ## 🎮 Control
 ```
 WASD for movement
